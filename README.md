@@ -1,6 +1,7 @@
 # EX-05  CREATING DASHBOARDS WITH PLOTLY AND DASH
+**DATE :18-11-2024**
 ### AIM:
-To implement Dashboards creation with Plotly and Dash using python.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE :18-11-2024**
+To implement Dashboards creation with Plotly and Dash using python.
 ### About Dash and Plotly tools:
 Dash is a Python framework for building analytical web applications. Dash helps in building responsive web dashboards that is good to look at and is very fast without the need to understand complex front-end frameworks or languages such as HTML, CSS, JavaScript. Let’s build our first web dashboard using Dash.
 Plotly library in Python is an open-source library that can be used for data visualization and understanding data simply and easily. Plotly supports various types of plots like line charts, scatter plots, histograms, box plots, etc.
@@ -10,7 +11,9 @@ Plotly library in Python is an open-source library that can be used for data vis
 - Step 3: Add dropdown using layout function and include the necessary options.
 - Step 4: Display the necessary visualization tools and include the necessary parameters.
 - Step 5: Display the output.
-### PROGRAM AND OUTPUT
+### PROGRAM 
+**Developed By: SANDHIYA R - 212222230129**
+
 ```Python
 import dash
 from dash import dcc, html
@@ -68,4 +71,3 @@ fig.show()
 ### RESULT:
 Thus the program to implement Dashboards creation with Plotly and Dash using python is successfully implemented.
 
-**Developed By: ROHIT JAIN D - 212222230120**
